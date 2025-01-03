@@ -22,15 +22,7 @@ The E-Commerce Backend is a comprehensive backend solution for managing an e-com
 
 ## How to Use
 
-1. **Clone the Repository:**
-
-   Clone the project to your local machine using:
-
-   ```bash
-   git clone https://github.com/YourUsername/ecommerce-backend.git
-   ```
-
-2. **Install Dependencies:**
+1. **Install Dependencies:**
 
    Navigate to the project directory and install the necessary dependencies:
 
@@ -38,7 +30,7 @@ The E-Commerce Backend is a comprehensive backend solution for managing an e-com
    npm install
    ```
 
-3. **Configure Environment Variables:**
+2. **Configure Environment Variables:**
 
    Create a `.env` file in the root directory and add your PostgreSQL credentials:
 
@@ -48,7 +40,7 @@ The E-Commerce Backend is a comprehensive backend solution for managing an e-com
    DB_PASSWORD=your_password
    ```
 
-4. **Create and Seed the Database:**
+3. **Create and Seed the Database:**
 
    Run the schema file to create the database and tables:
 
@@ -62,7 +54,7 @@ The E-Commerce Backend is a comprehensive backend solution for managing an e-com
    npm run seed
    ```
 
-5. **Start the Server:**
+4. **Start the Server:**
 
    Start the API server:
 
@@ -70,7 +62,7 @@ The E-Commerce Backend is a comprehensive backend solution for managing an e-com
    npm start
    ```
 
-6. **API Testing:**
+5. **API Testing:**
 
    Use a tool like **Insomnia** or **Postman** to test the API endpoints.
 
