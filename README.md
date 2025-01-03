@@ -6,7 +6,7 @@ The E-Commerce Backend is a comprehensive backend solution for managing an e-com
 
 ![Screenshot of the E-Commerce Backend API](assets/ss.png)
 
-[View Demo Viedo](https://drive.google.com/file/d/1xPIg20mIDbsKOS97dCxLzpXYmqCIG0I2/view?usp=sharing)
+[View Demo Video](https://drive.google.com/file/d/1xPIg20mIDbsKOS97dCxLzpXYmqCIG0I2/view?usp=sharing)
 
 ---
 
