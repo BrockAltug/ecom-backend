@@ -1,13 +1,12 @@
-
 # E-Commerce Backend
 
 ## Description
 
 The E-Commerce Backend is a comprehensive backend solution for managing an e-commerce platform. This API provides functionality to manage categories, products, tags, and their relationships. Built using Node.js, Express.js, Sequelize, and PostgreSQL, this project demonstrates a scalable, relational database architecture while offering robust RESTful API endpoints.
 
-![Screenshot of the E-Commerce Backend API](assets/ecommerce-backend.png)
+![Screenshot of the E-Commerce Backend API](assets/ss.png)
 
-[View Walkthrough Video](https://drive.google.com/file/d/your-demo-link/view?usp=sharing)
+[View Demo Viedo](https://drive.google.com/file/d/your-demo-link/view?usp=sharing)
 
 ---
 
